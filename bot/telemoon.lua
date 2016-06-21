@@ -233,27 +233,9 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {196560568},--Sudo users
+    sudo_users = {195190684,191790308,185464963},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleMoon V.4
-An advanced administration bot based on TG-CLI written in Lua Open source!
-
-https://github.com/amirf2020/telemoon
-
-
-Admins:
-@alfroshotak [Developer, Founder, Manager]
-
-@octapus_is_dead [Developer, Manager]
-
-@seyedkia [Manager]
-
-Special thanks to
-@iamrapfarsi
-@spammer021
-
-Our channel
-@fuckerteam
+    about_text = [[
 ]],
     help_text_realm = [[
 Realm Commands:
